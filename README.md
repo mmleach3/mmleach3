@@ -1,5 +1,5 @@
 ### A few random things about Me:
-  - I have two black cats, Taro and Iris.
+  - I have two black cats, Taro and Iris. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
   - I am an ASU student, and I am working on obtaining my BS in Graphic IT with a focus in UI/UX design.
   - After graduation, I plan on traveling to Japan for a few weeks with my partner.
   - I love to read, cook, hike, and play video games.
