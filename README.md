@@ -1,9 +1,8 @@
-### A few random things about Me:
-  - I have two black cats, Taro and Iris. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
-  - I am an ASU student, and I am working on obtaining my BS in Graphic IT with a focus in UI/UX design.
-  - After graduation, I plan on traveling to Japan for a few weeks with my partner.
-  - I love to read, cook, hike, and play video games.
-  - My favorite anime is Your Name, and anything studio Ghibli.
+### A few random things about Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
+  :octocat: I have two black cats, Taro and Iris. 
+  :computer: I am an ASU student, and I am working on obtaining my BS in Graphic IT with a focus in UI/UX design.
+  :japan: After graduation, I plan on traveling to Japan for a few weeks with my partner.  
+  :rainbow:I love to read, cook, hike, anything studio Ghibli, and playing video games.
 
 Accounts:
   1. Codepen: https://codepen.io/mmleach3
