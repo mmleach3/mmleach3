@@ -5,7 +5,7 @@
   - I love to read, cook, hike, and play video games.
   - My favorite anime is Your Name, and anything studio Ghibli.
 
-##Accounts:
+Accounts:
   1. Codepen: https://codepen.io/mmleach3
   2. Behance: https://www.behance.net/mellanileach
 
