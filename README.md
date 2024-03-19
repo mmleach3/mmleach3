@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me:
+- I have two black cats, Taro and Iris.
+- I am an ASU student, and I am working on obtaining my BS in Graphic IT with a focus in UI/UX design.
+- After graduation, I plan on traveling to Japan for a few weeks with my partner.
+- I love to read, cook, hike, and play video games.
+- My favorite anime is Your Name, and anything studio Ghibli.
 
 <!--
 **mmleach3/mmleach3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
