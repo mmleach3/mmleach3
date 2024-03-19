@@ -2,7 +2,7 @@
   :octocat: I have two black cats, Taro and Iris.</br>
   :computer: I am an ASU student, and I am working on obtaining my BS in Graphic IT with a focus in UI/UX design.</br>
   :japan: After graduation, I plan on traveling to Japan for a few weeks with my partner.</br>
-  :rainbow:I love to read, cook, hike, anything studio Ghibli, and playing video games.</br>
+  :rainbow: I love to read, cook, hike, anything studio Ghibli, and playing video games.</br>
 
 Accounts:
   1. Codepen: https://codepen.io/mmleach3
