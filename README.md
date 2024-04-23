@@ -1,6 +1,6 @@
 ### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" />
   :octocat: I have two amazing black cats, Taro and Iris.</br>
-  :computer: I am a student at ASU, and I am working on obtaining my BS in Graphic IT, with a focus in front-end web development.</br>
+  :computer: I am a student at ASU working on obtaining my BS in Graphic IT, with a focus in front-end web development.</br>
   :rainbow: I love: yoga, reading, hiking, making coffee, inspiring others, and playing video games.</br>
 
 Accounts:
